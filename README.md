@@ -2,10 +2,8 @@
 
 A little about myself...
 
-- 🔭 I’m currently studying at SESI SENAI
-- 🌱 I’m currently learning programming 
-- 💬 Ask me about movies and cartoons
-- 📫 Talk to me for: edrielle.santos01@gmail.com / edrielle.santos@al.estudante.senai.br / @edrielle.s
+- 🔭 I am currently learning to program on the SESI SENAI network 
+- 📫 Talk to me at: edrielle.santos01@gmail.com / edrielle.santos@al.estudante.senai.br / @edrielle.s
 - ⚡ Fun and necessary fact: I love medicine, but I don't want it for my life.
 
 <div align="center">
