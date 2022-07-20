@@ -1,4 +1,4 @@
-### Hii guys, i'm Edrielle Santos 👋🤍
+### Hii guys, i'm Edrielle Santos 👋🤍🤍
 
 A little about myself...
 
